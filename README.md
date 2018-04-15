@@ -1,1 +1,1 @@
-# MSX2+ Last Mission (Opera) compatibility patch
+# MSX2 / 2+ compatibility & enhancement patches
